@@ -1,2 +1,1 @@
-# helix-config
-My Helix Editor configuration
+# Helix Editor Configuration
