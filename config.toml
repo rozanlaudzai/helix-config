@@ -6,3 +6,9 @@ insert = "bar"
 [editor.indent-guides]
 render = true
 character = "▏"
+
+[editor.statusline]
+right = ["diagnostics", "selections", "register", "position", "file-encoding", "file-line-ending", "file-type"]
+mode.normal = "NORMAL"
+mode.insert = "INSERT"
+mode.select = "SELECT"
