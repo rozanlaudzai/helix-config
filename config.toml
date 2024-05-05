@@ -2,3 +2,7 @@ theme = "solarized_light"
 
 [editor.cursor-shape]
 insert = "bar"
+
+[editor.indent-guides]
+render = true
+character = "▏"
