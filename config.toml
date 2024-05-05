@@ -1,4 +1,4 @@
-theme = "dark_plus"
+theme = "solarized_light"
 
 [editor.cursor-shape]
 insert = "bar"
