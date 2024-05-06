@@ -2,6 +2,7 @@ theme = "solarized_light"
 
 [editor]
 bufferline = "always"
+line-number = "relative"
 
 [editor.cursor-shape]
 insert = "bar"
