@@ -1,4 +1,4 @@
-theme = "solarized_light"
+theme = "dark_plus"
 
 [editor]
 bufferline = "always"
@@ -13,9 +13,13 @@ character = "▏"
 
 [editor.statusline]
 right = ["diagnostics", "selections", "register", "position", "file-encoding", "file-line-ending", "file-type"]
-mode.normal = "NORMAL"
+mode.normal = ""
 mode.insert = "INSERT"
 mode.select = "SELECT"
+
+[editor.soft-wrap]
+enable = true
+max-wrap = 116
 
 [editor.file-picker]
 hidden = false
