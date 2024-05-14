@@ -14,8 +14,8 @@ character = "▏"
 [editor.statusline]
 right = ["diagnostics", "selections", "register", "position", "file-encoding", "file-line-ending", "file-type"]
 mode.normal = ""
-mode.insert = "INSERT"
-mode.select = "SELECT"
+mode.insert = "-- INSERT --"
+mode.select = "-- SELECT --"
 
 [editor.soft-wrap]
 enable = true
